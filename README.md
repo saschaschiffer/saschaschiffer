@@ -7,7 +7,7 @@ I’m Sascha, a future-ready software developer with a passion for clean code, r
 - 🧠 Building test-driven, component-based web applications
 - 🧩 Exploring Headless CMS, CI/CD workflows and containerization
 - 📚 Always learning – currently deep diving into testing strategies
-- 📨 Reach out via [LinkedIn](https://www.linkedin.com/in/saschaschiffer)
+- 📨 Reach out via [LinkedIn](https://www.linkedin.com/in/sascha-schiffer-165873242/)
 - 🍖 Fun fact: I have opinions about barbecue that go beyond sauce and smoke
 
 ---
