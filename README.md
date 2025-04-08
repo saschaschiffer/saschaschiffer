@@ -11,5 +11,3 @@ I’m Sascha, a future-ready software developer with a passion for clean code, r
 - 🍖 Fun fact: I have opinions about barbecue that go beyond sauce and smoke
 
 ---
-
-> „Ein guter Entwickler denkt nicht nur in Code – sondern in Verantwortung.“
